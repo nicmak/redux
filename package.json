@@ -1,0 +1,19 @@
+{
+  "name": "nick",
+  "version": "1.0.0",
+  "description": "prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicmak/redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicmak/redux/issues"
+  },
+  "homepage": "https://github.com/nicmak/redux#readme"
+}
